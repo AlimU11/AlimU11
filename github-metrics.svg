@@ -254,7 +254,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~24 coding hours recorded
+                            ~23 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -290,27 +290,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 44.151999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
+                                <div class="bar" style="width: 47.55199999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">59%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 18.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">23%</span>
+                                <div class="bar" style="width: 19.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 12.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 6.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SQL</span>
-                                <div class="bar" style="width: 3.8640000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 5.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -330,36 +330,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.41884133611691 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.406934306569342 329"/>
                                     <text x="60" y="50" dominant-baseline="central">133</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3832</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3836</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.75757575757576 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.722162162162164 329"/>
                                     <text x="60" y="50" dominant-baseline="central">92</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/924</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/925</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.573426573426573 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.56686626746507 329"/>
                                     <text x="60" y="50" dominant-baseline="central">40</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2002</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2004</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3631346578366446 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3627342888643881 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/906</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/907</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
